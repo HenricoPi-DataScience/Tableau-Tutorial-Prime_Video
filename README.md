@@ -4,4 +4,4 @@ A Tableau Tutorial completed using a Prime Video Theme
 <<<[LINK TO ACTIVE DASHBOARD](https://public.tableau.com/app/profile/henrico.pieterse/viz/PrimeVideo_16894351206820/Dashboard1?publish=yes)>>>
 
 
-![Data science - Prime Video](https://github.com/HenricoPi/Tableau-Tutorial-Prime_Video/assets/110978979/af49d87d-b152-4bb7-a87e-e37862ae2b49)
+![Screenshot](https://raw.githubusercontent.com/HenricoPi-DataScience/Tableau-Tutorial-Prime_Video/main/Data%20science%20-%20Prime%20Video.png)
